@@ -1,4 +1,4 @@
-# spa
+# lesson-vue-spa
 
 ## Project setup
 ```
